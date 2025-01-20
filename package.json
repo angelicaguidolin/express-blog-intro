@@ -1,0 +1,22 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "blog intro",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelicaguidolin/express-blog-intro.git"
+  },
+  "author": "Angelica Guidolin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelicaguidolin/express-blog-intro/issues"
+  },
+  "homepage": "https://github.com/angelicaguidolin/express-blog-intro#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
